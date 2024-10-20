@@ -453,7 +453,7 @@ nav img{
     font-size: 60px;
     max-width: 100%;
     position: absolute;
-    left: 52%;
+    left: 50%;
     top: 150px;
 }
 .contact-form-text{
@@ -465,7 +465,7 @@ nav img{
 .contact-form-text1{
     font-size: 24px;
     position: absolute;
-    left: 59.5%;
+    left: 57.5%;
     top: 250px;
 }
 .contact form{

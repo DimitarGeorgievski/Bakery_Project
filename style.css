@@ -185,12 +185,13 @@ nav img{
 .ingredients-img{
     flex:2 2 60%;
     max-width: 45%;
-    padding: 20px;
+    object-fit: cover;
 }
 .ingredients-img img{
     width: 100%;
     margin: 0;
     padding: 0;
+    object-fit: cover;
 }
 .text-ingredients{
     flex: 1 1 40px;
@@ -453,7 +454,7 @@ nav img{
     font-size: 60px;
     max-width: 100%;
     position: absolute;
-    left: 50%;
+    left: 52%;
     top: 150px;
 }
 .contact-form-text{
@@ -465,7 +466,7 @@ nav img{
 .contact-form-text1{
     font-size: 24px;
     position: absolute;
-    left: 57.5%;
+    left: 59.5%;
     top: 250px;
 }
 .contact form{

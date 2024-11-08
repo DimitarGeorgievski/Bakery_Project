@@ -454,8 +454,8 @@ nav img{
     font-size: 60px;
     max-width: 100%;
     position: absolute;
-    left: 52%;
-    top: 150px;
+    left: 50.5%;
+    top: 155px;
 }
 .contact-form-text{
     font-size: 24px;
@@ -466,7 +466,7 @@ nav img{
 .contact-form-text1{
     font-size: 24px;
     position: absolute;
-    left: 59.5%;
+    left: 57.5%;
     top: 250px;
 }
 .contact form{
@@ -477,7 +477,7 @@ nav img{
     width: 100%;
 }
 .contact form input[type="email"],
-.contact form input[type="text"] {
+.contact form input[type="name"] {
     font-size: 18px;
     padding: 12px 20px;
     margin: 8px 0;
